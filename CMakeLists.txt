@@ -1,5 +1,5 @@
-cmake_minimum_required (VERSION 3.25.2 FATAL_ERROR)
+cmake_minimum_required (VERSION 3.24.3 FATAL_ERROR)
 
-project (Battle-City)
+project(Battle-City)
 
-add_executable(Battle-City source/main.cpp)
+add_executable(Battle-City src/main.cpp)
